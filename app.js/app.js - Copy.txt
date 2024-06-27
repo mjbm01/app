@@ -1,2 +1,0 @@
-this is example for test gitignore
-are you test the git ignoer for change this file?
